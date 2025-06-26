@@ -103,7 +103,7 @@ const Navbar = () => {
           
           <Button 
             variant="outline" 
-            className="bg-transparent border-qtify-dark text-qtify-dark hover:bg-qtify-dark hover:text-qtify-green transition-colors"
+            className="bg-qtify-dark border-qtify-dark text-qtify-green hover:bg-qtify-dark hover:text-qtify-green transition-colors"
             onClick={() => setIsFeedbackOpen(true)}
           >
             Give Feedback
